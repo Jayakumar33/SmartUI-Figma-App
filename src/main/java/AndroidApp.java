@@ -59,7 +59,7 @@ public class AndroidApp {
             //Back to orginal color
             color.click();
 
-            // SmartUI Screenshot capturing command
+            // S
             ((JavascriptExecutor)driver).executeScript("smartui.takeScreenshot=homepage.png");
             System.out.println("Executed");
 

@@ -8,8 +8,8 @@
         <parameter name="platform" value="Android"/>
         <parameter name="device" value="Galaxy.*"/>
         <classes>
-            <class name="AndroidApp"/>
-<!--            <class name="AndroidAppAccessbility"/>-->
+<!--            <class name="AndroidApp"/>-->
+            <class name="AndroidAppAccessbility"/>
 
         </classes>
     </test>
