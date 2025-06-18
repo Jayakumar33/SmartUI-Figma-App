@@ -1,0 +1,26 @@
+{
+  "mobile": [
+    {
+      "name": "Pixel 8 Pro",
+      "platform": [
+        "android 14"
+      ]
+    }
+  ],
+  "figma": {
+    "depth": 2,
+    "configs": [
+      {
+        "figma_file_token": "t3sOgvBrKoRJrVGDXVp9Vi",
+        "figma_ids": [
+          "2102-56"
+        ],
+        "screenshot_names": [
+          "homepage"
+        ]
+      }
+
+    ]
+  }
+}
+
